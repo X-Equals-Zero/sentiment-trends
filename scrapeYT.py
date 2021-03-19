@@ -4,7 +4,7 @@ import json
 import sys
 
 QUERY = 'crypto'
-KEY = 'AIzaSyBrffDBZkxpPnf71efJeHvYpfXwDX2F1r4'
+KEY = 'inser ur key here'
 if len(sys.argv) > 1:
     QUERY = sys.argv[1]
 
