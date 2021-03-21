@@ -7,5 +7,6 @@ Sentiment over Time table + graph
 
 make your own API key on google cloud, and paste it into '.key.txt' in the root directory
 
+## e.g. Sentiment for "Harmony One crypto"
 ![sentiment over time](https://i.imgur.com/zvQspHd.png)
 
