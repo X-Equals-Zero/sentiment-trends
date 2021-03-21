@@ -37,7 +37,7 @@ ax.grid(True)
 ax.format_xdata = mdates.DateFormatter('%d/%m/%Y')
 fig.autofmt_xdate()
 #df['compound'].plot(kind='bar')
-plt.bar(df['date'], df['compound'], width=50, data=df)
+plt.scatter(df['date'], df['compound'])
 
 
 plt.show()
